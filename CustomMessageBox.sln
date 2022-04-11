@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMessageBox", "CustomMessageBox\CustomMessageBox.csproj", "{94048749-7973-42D6-AD87-CB0CDBBE4909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{073FDEA5-099A-47CF-80CD-6D06735BA713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94048749-7973-42D6-AD87-CB0CDBBE4909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94048749-7973-42D6-AD87-CB0CDBBE4909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94048749-7973-42D6-AD87-CB0CDBBE4909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94048749-7973-42D6-AD87-CB0CDBBE4909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073FDEA5-099A-47CF-80CD-6D06735BA713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073FDEA5-099A-47CF-80CD-6D06735BA713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073FDEA5-099A-47CF-80CD-6D06735BA713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073FDEA5-099A-47CF-80CD-6D06735BA713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A70360-60BE-4173-AA29-B540089AFB16}
+	EndGlobalSection
+EndGlobal
