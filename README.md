@@ -18,7 +18,7 @@ Known issues:
 # Usage
 Add files from the CustomMsgBox project to your project and add using directive to the CustomMessageBox namespace
 
-![alt text](https://github.com/Flo1dZZZ/CustomMessageBox/blob/master/Screenshot_1.png)
+![alt text](https://github.com/Flo1dZZZ/WPF_CustomMessageBox/blob/master/Screenshot_1.png)
 
 ```
 using CustomMessageBox;
@@ -57,4 +57,4 @@ switch (msgBoxResult)
 ```
 
 # Demo
-![alt text](https://github.com/Flo1dZZZ/CustomMessageBox/blob/master/Demo.gif)
+![alt text](https://github.com/Flo1dZZZ/WPF_CustomMessageBox/blob/master/Demo.gif)
